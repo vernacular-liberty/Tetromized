@@ -1,4 +1,4 @@
-#TETROMIZED
+# TETROMIZED
 
 Tetromized is a spin off of the traditional game Tetris.
 
