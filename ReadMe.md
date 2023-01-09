@@ -10,6 +10,6 @@ Current Classes
 Future Additions
 - Leaderboard
 
-Contributors:
+## Contributors:
 - Liberty Lehr
 - Maryam Shaad
