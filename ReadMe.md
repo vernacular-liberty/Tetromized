@@ -9,7 +9,3 @@ Tetromized is a spin off of the traditional game Tetris.
     
 ### Future Additions
 - Leaderboard
-
-## Contributors:
-- Liberty Lehr
-- Maryam Shaad
